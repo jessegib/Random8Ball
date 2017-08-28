@@ -1,0 +1,6 @@
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\Learning to Program\Codegasm\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\Learning to Program\Codegasm\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\Learning to Program\Codegasm\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\Learning to Program\Codegasm\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\Learning to Program\Codegasm\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jesse\Documents\Visual Studio 2017\Projects\Learning to Program\Codegasm\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
